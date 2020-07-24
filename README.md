@@ -12,6 +12,14 @@
 >
 > *Best of luck to you!*
 
+>元々は、ソフトウェアエンジニアになるための短いToDoリストとして作成したのですが、現在のような大きなリストに成長しました。この勉強法を経て、私はAmazonでソフトウェア開発エンジニアとして採用されました。おそらく、あなたは私のように勉強する必要はないでしょう。とにかく、必要なものはすべて揃っています。
+
+>私は数ヶ月間、1日8～12時間程度勉強しました。これが私の体験談です。私がGoogleの面接のために8ヶ月間フルタイムで勉強した理由
+
+>ここに記載されている項目は、巨人(アマゾン、フェイスブック、グーグル、マイクロソフトなど。)を含むあらゆるソフトウェア会社での技術的な面接のために十分に準備することができます。
+
+>幸運を祈っています。
+
 <details>
 <summary>Translations:</summary>
 
@@ -49,6 +57,7 @@
 ## What is it?
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+これは、Web開発者（独学、CS卒ではない）から大企業のソフトウェアエンジニアになるための数ヶ月間の勉強計画です。
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
@@ -60,6 +69,14 @@ If you have many years of software/web development experience, note that large s
 Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
 
 If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
+これは、**新米ソフトウェアエンジニア**または**からの転職者を対象としています。
+ソフトウェア/ウェブ開発からソフトウェアエンジニアリング（コンピュータサイエンスの知識が必要なところ をお持ちの方は
+何年もの経験があり、ソフトウェア・エンジニアリングの経験を何年も主張している場合は、より厳しい面接を期待しましょう。
+
+長年のソフトウェア/ウェブ開発の経験がある場合は、GoogleやAmazonなどの大手ソフトウェア会社に注意してください。
+Facebookやマイクロソフトでは、ソフトウェアエンジニアリングをソフトウェア/ウェブ開発とは異なるものと捉えており、コンピュータサイエンスの知識が必要とされています。
+
+reliability  engineerや運用エンジニアになりたい場合は、オプションリスト（ネットワーク、セキュリティ）からさらに勉強しましょう。
 
 ---
 
@@ -193,13 +210,29 @@ thousands of associative arrays, but I've never created data structures from scr
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
+このプロジェクトを始めたとき、私はスタックとヒープの関係も知らず、ビッグ・オーのことも木のこともグラフを横断することも何も知らなかった。
+もし私がソートアルゴリズムをコード化したとしても、 それはとても良いものではなかったでしょう。
+今まで使った全てのデータ構造は 言語に組み込まれていて どう動くのか分からなかった。
+でも、全く問題ありませんでした。メモリを管理する必要があったことはありません。
+memory" というエラーが出て、回避策を見つけなければなりませんでした。私はこれまでにいくつかの多次元配列を使ってきました。
+何千もの連想配列を作ったことはありますが、ゼロからデータ構造を作ったことはありません。
+
+長い計画ですね。何ヶ月もかかるかもしれません。すでに多くのことに慣れているのであれば、それほど時間はかからないでしょう。
+
+
 ## How to use it
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
 
+以下はすべて概要で、上から順に項目に取り組むようにしましょう。
+
+私は進捗状況を確認するためのタスクリストなど、Githubの特別なマークダウンのフレーバーを使っています。
+
 **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
+**括弧内にxを入れるだけで、このような項目をチェックできるように、新しいブランチを作成します。[x]**
+
 
 
     Fork a branch and follow the commands below
