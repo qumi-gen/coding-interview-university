@@ -57,6 +57,7 @@
 ## What is it?
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+
 これは、Web開発者（独学、CS卒ではない）から大企業のソフトウェアエンジニアになるための数ヶ月間の勉強計画です。
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
@@ -69,6 +70,7 @@ If you have many years of software/web development experience, note that large s
 Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
 
 If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
+
 これは、**新米ソフトウェアエンジニア**または**からの転職者を対象としています。
 ソフトウェア/ウェブ開発からソフトウェアエンジニアリング（コンピュータサイエンスの知識が必要なところ をお持ちの方は
 何年もの経験があり、ソフトウェア・エンジニアリングの経験を何年も主張している場合は、より厳しい面接を期待しましょう。
@@ -257,8 +259,10 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 
 ## Don't feel you aren't smart enough
+## ♪ 自分が賢くないと思わないで
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+- 成功しているソフトウェアエンジニアは頭が良いが、多くの人は「自分は頭が良くない」という不安を抱えている。
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
@@ -267,8 +271,14 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
 Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
 
+動画の中には、CourseraやEdXのクラスに登録しないと見ることができないものもあります。これらはMOOCsと呼ばれています。
+授業が開催されていないこともあるので、数ヶ月待たなければならないので、アクセスできないこともあります。
+
     I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
     I like using university lectures.
+        
+    オンライン講座の動画に付随して、YouTubeの動画など、無料でいつでも見られる公開ソースを追加してくれるとありがたいですね。
+    大学の講義を使うのが好きです。
 
 
 ## Interview Process & General Interview Prep
